@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://58265955jh-afk.github.io/ieum-telecom/sitemap.xml
